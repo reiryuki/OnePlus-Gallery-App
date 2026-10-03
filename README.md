@@ -23,7 +23,7 @@ Android 7.1 (SDK 25) and up
 
 ## Installation Guide & Download Link
 - Create Android/data/com.oneplus.gallery/files and Android/data/com.oneplus.gallery/cache directories first
-- Normal install the OnePlus Gallery APK: https://github.com/reiryuki/OnePlus-Gallery-App
+- Normal install the OnePlus Gallery APK: https://bicolink.com/eNC2
 
 ## Download Tutorial
 https://t.me/ryukinotes/97
